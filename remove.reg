@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\.7z\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.zip\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.rar\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.tar\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.gz\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.gzip\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.bz2\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.xz\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.iso\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.cab\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.arj\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.lzh\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.jar\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.ace\shell\Open\command]
+[-HKEY_CLASSES_ROOT\.z\shell\Open\command]
