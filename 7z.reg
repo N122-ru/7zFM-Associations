@@ -1,0 +1,57 @@
+Windows Registry Editor Version 5.00
+
+; Association for .7z files
+[HKEY_CLASSES_ROOT\.7z\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .ZIP files
+[HKEY_CLASSES_ROOT\.zip\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .RAR files
+[HKEY_CLASSES_ROOT\.rar\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .TAR files
+[HKEY_CLASSES_ROOT\.tar\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .GZ files
+[HKEY_CLASSES_ROOT\.gz\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .GZIP files
+[HKEY_CLASSES_ROOT\.gzip\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .BZ2 files
+[HKEY_CLASSES_ROOT\.bz2\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .XZ files
+[HKEY_CLASSES_ROOT\.xz\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .ISO files
+[HKEY_CLASSES_ROOT\.iso\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .CAB files
+[HKEY_CLASSES_ROOT\.cab\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .ARJ files
+[HKEY_CLASSES_ROOT\.arj\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .LZH files
+[HKEY_CLASSES_ROOT\.lzh\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .ACE files
+[HKEY_CLASSES_ROOT\.ace\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
+
+; Association for .Z files
+[HKEY_CLASSES_ROOT\.z\shell\Open\command]
+@="\"C:\\Program Files\\7-Zip\\7zFM.exe\" \"%1\""
